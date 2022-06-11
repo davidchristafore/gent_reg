@@ -1,3 +1,5 @@
+This repository contains the analysis R code and table creation R code that I wrote for [The influence of land use regulation on the probability that low-income neighbourhoods will gentrify](https://journals.sagepub.com/doi/abs/10.1177/0042098020940163), published in Urban Affairs. Below are the data sources used in the paper.
+
 [Diversity and Disparities](https://s4.ad.brown.edu/Projects/Diversity/Researcher/LTDB.htm) provides census data across years for tracts adjusted to 2010 tract boundaries. I use the 2000 census sample data, 2000 census full count data, and the 2008-2012 ACS data. The data are in the following files:
 
 * "LTDB_Std_2000_Sample.csv": 2000 Sample Data
